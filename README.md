@@ -7,5 +7,7 @@ made with C++ and raylib
 
 <img src="https://github.com/pepega90/plinko/blob/main/preview.gif" />
 
+[pepeg](https://lustrous-faun-7d31f7.netlify.app/)
+
 
 
